@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [个人博客地址 http://dandanlove.com/](http://dandanlove.com/)
 
 # InstantRun从2.0到3.0，历史解毒
@@ -1431,3 +1432,7 @@ public final class InstantRunContentProvider extends ContentProvider {
 
 想阅读作者的更多文章，可以查看我 [个人博客](http://dandanlove.com/) 和公共号：
 ![振兴书城](http://upload-images.jianshu.io/upload_images/1319879-612c4c66d40ce855.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+=======
+# InstantRun-ApkParse
+apk parse files that about instant-run 
+>>>>>>> 04ee01ec0cca62da96ee2e11ca4ba40be7dd8428
