@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [个人博客地址 http://dandanlove.com/](http://dandanlove.com/)
 
 # InstantRun从2.0到3.0，历史解毒
@@ -38,7 +37,24 @@
 
 - 冷部署：app需要重启，结构性的代码更改。
 
+## 相关代码：
 
+下边为整个文章中所涉及的源代码：
+
+### 地址
+
+[源码以及反编译文件链接：https://github.com/stven0king/InstantRun-ApkParse.git](https://github.com/stven0king/InstantRun-ApkParse.git)
+
+### 文件目录
+
+```java
+file:2.2.3//apk-debug2.2.3.apk反编译源码
+file:2.3.0//apk-debug2.3.0.apk反编译源码
+file:3.0.0//apk-debug3.0.0.apk反编译源码
+file:reload0x0000//reload0x0000-dex2jar.jar反编译源代码
+file:slice_4_2.2.3//apk-debug2.2.3.apk分裂出的slice_4_2.3.0.apk的反编译文件
+file:slice_6_3.0.0//apk-debug3.0.0.apk分裂出的split_lib_slice_6_apk的反编译文件
+```
 
 ## Gradle2.2.3版本
 
@@ -49,10 +65,6 @@
 - gradle:2.2.3
 - Android:6.0
 - [反编译工具：jadx](https://github.com/stven0king/jadx)
-
-### 代码：
-
-[源码以及反编译文件链接：https://gitee.com/dandanlove/InstantRun-ApkParse](https://gitee.com/dandanlove/InstantRun-ApkParse)
 
 ### 反编译结果
 
@@ -1431,4 +1443,5 @@ public final class InstantRunContentProvider extends ContentProvider {
 文章到这里就全部讲述完啦，若有其他需要交流的可以留言哦~！~！
 
 想阅读作者的更多文章，可以查看我 [个人博客](http://dandanlove.com/) 和公共号：
+
 ![振兴书城](http://upload-images.jianshu.io/upload_images/1319879-612c4c66d40ce855.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
